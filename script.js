@@ -12,6 +12,6 @@ function clicar(projeto) {
         window.location.href = 'https://exemplo.com/ecommerce';
     }
     else if (projeto === 'lista') {
-        window.location.href = 'https://exemplo.com/lista';
+        window.location.href = 'https://gslm276.github.io/Lista/';
     }
 }
