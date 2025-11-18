@@ -3,7 +3,7 @@ window.alert('PAGINA EM DESENVOLVIMENTO')
 
 function clicar(projeto) {
     if (projeto === 'niceday') {
-        window.alert('Em breve')
+        window.location.href = '';
     }
     else if (projeto === 'imc') {
         window.location.href = 'https://gslm276.github.io/IMC/'; 
