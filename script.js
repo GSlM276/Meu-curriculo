@@ -2,7 +2,7 @@ window.alert('PAGINA EM DESENVOLVIMENTO')
 
 
 function clicar(projeto) {
-    if (projeto === 'niceday') {
+    if (projeto === 'fin') {
         window.location.href = '';
     }
     else if (projeto === 'imc') {
@@ -13,5 +13,8 @@ function clicar(projeto) {
     }
     else if (projeto === 'lista') {
         window.location.href = 'https://gslm276.github.io/Lista/';
+    }
+    else if (projeto === 'fin') {
+        window.location.href = 'https://gslm276.github.io/Sistema/';
     }
 }
